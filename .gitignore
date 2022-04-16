@@ -21,3 +21,4 @@ deployments/
 Captain.toml
 .eslintcache
 .goki/
+/.idea
